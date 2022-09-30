@@ -1,1 +1,1 @@
-# ML_Testing_Training_Labs
+# ML Testing Course Hands-On Labs
